@@ -1,0 +1,325 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    box-sizing: border-box;
+}
+.navbar {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+ul.navbar-nav {
+    margin-left: 30px;
+}
+a.navbar-brand {
+    width: 26%;
+    margin-left: 30px;
+    padding: 11px;
+}
+a.nav-link.dropdown-toggle {
+    color: white;
+    margin: 8px;
+}
+a.nav-link {
+    color: white;
+    margin: 8px;
+}
+input[type="text"] {
+    border-radius: 18px;
+    margin-top: 13px;
+    margin-left: 95%;
+}
+input#search {
+    margin-left: 50px;
+    padding: 5px;
+    width: 20vw;
+    margin-top: 9px;
+}
+.custom_svg_icon{
+    margin-top: 20px;
+}
+li {
+    margin: 7px;
+}
+svg#Layer_1 {
+    width: 15px;
+}
+.mini_card {
+   margin-top: 3px;
+}
+
+li img {
+    width: 20px;
+    margin-top: 20px;
+}
+.best.sellar {
+    text-align: center;
+    color: white;
+    padding: 24px;
+   
+}
+
+.best.sellar h3 {
+    font-size: 26px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    border: none;
+}
+.card {
+    background-color: #E3E3E3;
+}
+img.card-img-top {
+    width: 80%;
+    margin-left: 29px;
+}
+.card-body{
+    height: 20vh;
+    background-color: white;
+    border-radius: 13px;
+    margin: 5px;
+    margin-bottom: 10px;
+
+}
+h5.card-title {
+    font-size: 18px;
+    line-height: 0em;
+}
+
+p.card-text {
+    line-height: 1.5em;
+    color: red;
+}
+
+p.card-text h6 {
+    line-height: 1.4em;
+}
+
+.card-body h6 {
+    line-height: 0em;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+a.btn.btn-primary {
+    background-color: red;
+    border: none;
+    width: 100%;
+    padding: 4px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 4px;
+}
+.cards1{
+    margin-top: 50px;
+}
+.card_1 {
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px;
+    overflow: hidden;
+    display: block;
+    text-align: center;
+    background-color: white;
+
+}
+
+video {
+    width: 100%;
+    height: 39.50vh;
+}
+
+.card2 {
+    margin-top: 50px;
+}
+.boat {
+    line-height: 2.5em;
+}
+
+.boat p {font-weight: 600;}
+
+.prices {display: -webkit-inline-box;}
+
+p.original_price {
+    margin-right: 5px;
+    color: red;
+}
+
+p.discount_price {
+    margin-left: 5px;
+    font-weight: 400;
+}
+.boat_blog {
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    display: block;
+    background-color: #DCDCDC;
+}
+
+.boat_blog img {
+    width: 100%;
+    display: block;
+}
+.boat_blog h1 {
+    padding: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+button {
+    margin: 35px;
+    padding: 10px 20px 10px 20px;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    border: none;
+    background-color: #ED0000;
+    border-radius: 5px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.boat_blog  h4 {
+    margin-top: 20px;
+    font-size: 17px;
+    text-align: initial;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.rahul_image {padding: 10% 20%;}
+
+.rahul_description {
+    padding: 35% 10%;
+}
+
+.rahul_description h2 {
+    color: white;
+}
+
+.line {
+    height: 2px;
+    width: 130px;
+    background: #ed0000;
+}
+
+.rahul_description h3 {
+    line-height: 3em;
+    font-size: 20px;
+    color: #fb012a;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+h6 {
+    color: white;
+    margin-top: 20px;
+}
+
+.about {
+    background-color: gainsboro;
+    display: block;
+    text-align: center;
+}
+
+.about h1 {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 40px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 30px;
+}
+.about_box {
+    margin-top: 40%;
+    position: relative;
+    height: 28vh;
+    border: 1px solid red;
+    background-color: #ED1D24;
+    margin-bottom: 60px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+p.about_p {
+    margin-top: 90px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.about img {
+    position: absolute;
+    z-index: 1;
+    top: 238vw;
+    margin-left: -143px;
+}
+.about button {
+    margin-top: -2px;
+    background-color: white;
+    color: #ed1d24;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 50px 10px 50px;
+
+}
+.footer {
+    width: 100%;
+    display: block;
+}
+
+.mail_box {
+    margin-top: 50px;
+    margin-left: 30px;
+    display: block;
+    color: #FFF3C6;
+}
+
+.mail_box p {
+    margin-top: 15px;
+}
+input#subscriber-email {
+    background: transparent;
+    width: 65%;
+    height: 7vh;
+    position: relative;
+    border-radius: 8px;
+}
+
+button#subscribe-btn {
+    position: absolute;
+    left: 18%;
+    top: 272.7vw;
+    padding: 10px 50px 10px 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.shop_list {
+    display: block;
+    margin-top: 50px;
+    color:#FFF3C6;
+}
+.shop_list h5 {
+    text-transform: uppercase;
+    margin-left: 28px;
+    font-size: 18px;
+}
+ul.list-itmes {
+    list-style: none;
+    line-height: 1.6em;
+    font-size: 14px;
+}
+.help_list {
+    display: block;
+    margin-top: 50px;
+    color:#FFF3C6;
+}
+.help_list h5 {
+    text-transform: uppercase;
+    margin-left: 28px;
+    font-size: 18px;
+}
+ul.list-itmes {
+    list-style: none;
+    line-height: 1.6em;
+    font-size: 14px;
+}
