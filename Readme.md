@@ -7,7 +7,7 @@
 <br>
 
 ## Project live link
-[#](# "project01")
+[my-boat-clone.netlify.app](my-boat-clone.netlify.app "project01")
 
 <hr>
 
